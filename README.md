@@ -22,6 +22,9 @@ Pivot tables were used to explore the dataset and to answer key questions such a
 - Top 5 suspected cases by LGA
 - Top 3 death toll by LGA
 - Monthly cholera trend
+ ![pivot_table_analysis](https://github.com/user-attachments/assets/2b546d27-9a8f-4d6d-bb42-e8eaf68ad253)
+
+  
 
 ### Analysis
 - Replaced empty cells with the minimum values on column I =Min(I2:I21)
@@ -30,6 +33,8 @@ Pivot tables were used to explore the dataset and to answer key questions such a
 =Text(F2 “mmmm”)
 
 ### Visualization
+
+![lagos_cholera_data_visuals](https://github.com/user-attachments/assets/185bc8b4-a7a7-47ab-a7e2-7c117f7c6923)
 
 ### Result and findings
  The analysis results are summerized as follows:
